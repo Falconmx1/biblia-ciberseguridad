@@ -45,3 +45,29 @@ Esta es la guía **definitiva y en español** para aprender ciberseguridad y hac
 │ ├── 📁 libros/
 │ └── 📁 certificaciones/
 └── 📁 imagenes/
+
+
+## 🚀 ¿Cómo usar este repositorio?
+
+### Para lectores (principiantes y expertos)
+1. Empieza por la carpeta `1-fundamentos` si eres nuevo
+2. Sigue el orden numérico de las carpetas
+3. Dentro de cada carpeta, busca el archivo `00-indice.md` para ver el contenido
+4. ¡Practica en los laboratorios de la carpeta 4!
+
+### Para contribuidores
+¿Quieres añadir tu granito de arena? ¡Genial!
+1. Haz fork del repositorio
+2. Crea una rama para tu contribución (`git checkout -b feature/nuevo-contenido`)
+3. Haz commit de tus cambios
+4. Abre un Pull Request
+
+## 🤝 Contribuciones
+Las contribuciones son **siempre bienvenidas**. Revisa la [guía de contribución](CONTRIBUTING.md) (próximamente) para más detalles.
+
+## 📜 Licencia
+Este proyecto está bajo la licencia MIT - ve el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+**⭐ ¡No olvides dar una estrella si te sirve! ⭐**
